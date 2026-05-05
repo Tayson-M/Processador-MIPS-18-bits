@@ -7,7 +7,7 @@ Esse projeto consiste em desenvolver e entender o funcionamento de um processado
 
 ## 🛠 Visão Geral
 O processador consiste em 6 blocos sendo eles PC, Memoria de Instrução, UC, Registradores, ULA e Memoria de Dados. Cada bloco possui uma função especifica e essencial para o funcionamento correto do processador.
-><img width="1396" height="676" alt="Visão Geral" src="https://github.com/user-attachments/assets/afc28799-e9d9-4b3f-a2cf-131643c8f1d7" />
+><img width="1392" height="690" alt="Visão Geral" src="https://github.com/user-attachments/assets/5e174e4d-1fb7-4f03-b4e3-9968554a4ccf" />
 
 ´´´
 
@@ -50,7 +50,7 @@ O processador consiste em 6 blocos sendo eles PC, Memoria de Instrução, UC, Re
 ´´´
 
 >**Memória de dados:** É para onde os valores processados são enviados. Para isso recebe os endereços de memória que serão acessados e recebe instruções que indicam se naquela posição os valores serão armazenados ou lidos, podendo ser usado para enviar os valores direto para os registradores se essa for a operação desejada.
-><img width="489" height="249" alt="Memoria de Dados" src="https://github.com/user-attachments/assets/9b84459e-9a40-46d8-a563-09dede94a2ed" />
+><img width="484" height="263" alt="Memoria de Dados" src="https://github.com/user-attachments/assets/1194d4e9-1264-4dc3-a304-58aaf3f9cf81" />
 
 ´´´
 
@@ -128,8 +128,16 @@ Abaixo estão as tabelas contendo os comandos e suas respectivas operações:
 ´´´
 
 ## 🚀 Como usar
-1. Faça o download do Logisim Evolution (https://github.com/logisim-evolution/logisim-evolution)
+1. Faça o download do [Logisim Evolution](https://github.com/logisim-evolution/logisim-evolution)
 2. Faça o clone ou download desse repositorio
-3. Abra o arquivo Processador.circ no Logisim Evolution
-4. Carregue a memoria ROM com as instruções que desejar em hexadecimal
-5. Habilite a simulação e os pulsos de clock
+3. Siga as [Instruções de Usos](./Circuito/#Instruções%de%usos)
+
+## 👨‍💻 Integrantes
+[![GitHub](https://img.shields.io/badge/GitHub-TaysonMoises-24292e?style=flat&logo=github)](https://github.com/Tayson-M)
+[![GitHub](https://img.shields.io/badge/GitHub-GuilhermeMattos-0366d6?style=flat&logo=github)](https://github.com/guilhermeomattos)
+[![GitHub](https://img.shields.io/badge/GitHub-LuigiGuilherme-28a745?style=flat&logo=github)](https://github.com/luigi-guilherme)
+[![GitHub](https://img.shields.io/badge/GitHub-PauloCarvalho-6f42c1?style=flat&logo=github)](https://github.com/paulohcarvalho07)
+[![GitHub](https://img.shields.io/badge/GitHub-PedroCarvalho-005f73?style=flat&logo=github)](https://github.com/PedroHHCarvalho)
+
+
+
