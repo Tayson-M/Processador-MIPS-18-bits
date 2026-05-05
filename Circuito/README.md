@@ -1,7 +1,7 @@
 # Instruções de usos
 
 ## 📦 Abrindo o Processador no Logisim
-1. Faça o download ou clone do Processador.circ
+1. Faça o download ou clone do [Processador.circ](./Processador.circ)
 
 2. Abre o programa do Logisim
 
@@ -29,7 +29,7 @@
 3. Clique em **Abrir**
    <img width="560" height="318" alt="Captura de tela 2026-05-05 092242" src="https://github.com/user-attachments/assets/f63c924e-c46b-4aec-9c73-a27d844cbe37" />
 
-4. Selecione um dos exemplos que estão na pasta Carregar ROM e clique em **Abrir**
+4. Selecione um dos exemplos que estão na pasta [Carregar ROM](<./Carregar ROM/>) e clique em **Abrir**
    <img width="560" height="318" alt="Captura de tela 2026-05-05 092511" src="https://github.com/user-attachments/assets/679837d2-6198-4345-bb88-c87448692174" />
 
 5. Pronto! A Memoria ROM foi carregada!
