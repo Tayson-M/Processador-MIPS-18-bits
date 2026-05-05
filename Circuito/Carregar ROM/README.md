@@ -1,6 +1,6 @@
 # Exemplos em linguagem C++
 
-##Exemplo1 -> Média de 8 números
+## Exemplo1 (Média de 8 números)
 ```cpp
 #include <iostream>
 
@@ -30,7 +30,7 @@ int main()
 }
 ```
 
-##Exemplo2 -> Condição menor que 
+## Exemplo2 (Condição menor que)
 ```cpp
 #include <iostream>
 
