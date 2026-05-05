@@ -105,15 +105,6 @@ Abaixo estão as tabelas contendo os comandos e suas respectivas operações:
 
 ´´´
 
-|ULAOp|UlaCtrl|
-| :---: | :---: |
-| 00 | 000 |
-| 01 | 101 |
-| 10 | funct |
-| 11 | 00 |
-
-´´´
-
 | Funct | Operações |
 | :---: | :---: |
 | 000 | Soma (A + B) |
@@ -127,10 +118,19 @@ Abaixo estão as tabelas contendo os comandos e suas respectivas operações:
 
 ´´´
 
+|ULAOp|UlaCtrl|
+| :---: | :---: |
+| 00 | 000 |
+| 01 | 101 |
+| 10 | funct |
+| 11 | 00 |
+
+´´´
+
 ## 🚀 Como usar
 1. Faça o download do [Logisim Evolution](https://github.com/logisim-evolution/logisim-evolution)
 2. Faça o clone ou download desse repositorio
-3. Siga as [Instruções de Usos](./Circuito/#Instruções%de%usos)
+3. Siga as [Instruções de Usos](https://github.com/Tayson-M/Processador-MIPS-18-bits/tree/main/Circuito/#instru%C3%A7%C3%B5es-de-usos)
 
 ## 👨‍💻 Integrantes
 [![GitHub](https://img.shields.io/badge/GitHub-TaysonMoises-24292e?style=flat&logo=github)](https://github.com/Tayson-M)
