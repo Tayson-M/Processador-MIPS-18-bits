@@ -132,6 +132,8 @@ Abaixo estão as tabelas contendo os comandos e suas respectivas operações:
 2. Faça o clone ou download desse repositorio
 3. Siga as [Instruções de Usos](https://github.com/Tayson-M/Processador-MIPS-18-bits/tree/main/Circuito/#instru%C3%A7%C3%B5es-de-usos)
 
+## 📺 Link para video no Youtube
+
 ## 👨‍💻 Integrantes
 [![GitHub](https://img.shields.io/badge/GitHub-TaysonMoises-24292e?style=flat&logo=github)](https://github.com/Tayson-M)
 [![GitHub](https://img.shields.io/badge/GitHub-GuilhermeMattos-0366d6?style=flat&logo=github)](https://github.com/guilhermeomattos)
