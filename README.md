@@ -90,43 +90,6 @@ Abaixo estão as tabelas contendo os comandos e suas respectivas operações:
 |Soma imediata| 100/xxx| rt = rs + N| I|
 |Desvio incondicional| 111/xxx| PC = ENDR| J|
 
-´´´
-
-| opcode | Operações | ULAOp |
-| :---: | :---: | :---: |
-| 000 | RegDst / RegWrite / MemToReg | 10 |
-| 001 | RegWrite / ULASrc / MemRead | 00 |
-| 010 | ULASrc / MemWrite | 00 |
-| 011 | Branch | 01 |
-| 100 | RegWrite / ULASrc / MemToReg | 11 |
-| 101 | --- | 00 |
-| 110 | --- | 00 |
-| 111 | Jump | 00 |
-
-´´´
-
-| Funct | Operações |
-| :---: | :---: |
-| 000 | Soma (A + B) |
-| 001 |  Subtração (A - B) |
-| 010 | Multiplicação (A * B) |
-| 011 |  Divisão (A / B) |
-| 100 | Negação (~A) |
-| 101 | Menor que (A < B) |
-| 110 | Deslocamento esquerda (<- A) |
-| 111 |  Deslocamento direita (-> A) |
-
-´´´
-
-|ULAOp|UlaCtrl|
-| :---: | :---: |
-| 00 | 000 |
-| 01 | 101 |
-| 10 | funct |
-| 11 | 00 |
-
-´´´
-
 ## 🚀 Como usar
 1. Faça o download do [Logisim Evolution](https://github.com/logisim-evolution/logisim-evolution)
 2. Faça o clone ou download desse repositorio
@@ -134,6 +97,10 @@ Abaixo estão as tabelas contendo os comandos e suas respectivas operações:
 
 ## 📺 Link para video no Youtube
 >[![Nome do Vídeo](https://img.youtube.com/vi/_R43zn0hE4I/0.jpg)](https://www.youtube.com/watch?v=_R43zn0hE4I)
+
+## 🌱 Melhorias a se fazer
+* Aumentar a quantidade de bits de instrução
+* Adicionar um meio de exibir os resultados
 
 ## 👨‍💻 Integrantes
 [![GitHub](https://img.shields.io/badge/GitHub-TaysonMoises-24292e?style=flat&logo=github)](https://github.com/Tayson-M)
